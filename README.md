@@ -32,7 +32,7 @@ Publicación digital independiente dedicada a la literatura y al ensayo filosóf
 
 - Desarrollo web y herramientas digitales independientes.
 - Arquitectura de software, diseño de interfaces y accesibilidad.
-- Filosofía contemporánea, literatura y edición.
+- Filosofía, literatura y edición.
 
 ---
 
