@@ -20,20 +20,16 @@
 
 ### Perfil
 
-Filósofo, escritor, traductor editorial y programador autodidacta. Desarrollo proyectos digitales en la intersección entre las humanidades, el diseño y el software, con especial atención a la arquitectura, la experiencia de usuario y el cuidado editorial.
+Filósofo, escritor, traductor editorial y programador autodidacta. Mi actividad discurre entre las humanidades y el desarrollo de software, con especial atención al rigor arquitectónico, la sensibilidad estética y la factura editorial.
 
 ### Proyecto destacado
 
 **[El Jardín en Ruinas](https://eljardinenruinas.com/)**
 
-Publicación digital independiente dedicada a la literatura y al ensayo filosófico. Integra un archivo de textos, un entorno de edición privado y un sistema propio de correspondencia.
+Publicación digital independiente consagrada a la literatura y al pensamiento filosófico. Aúna un archivo de escritos, un entorno privado de edición y un sistema propio de correspondencia.
 
 ### Áreas de interés
 
-- Desarrollo web y herramientas digitales independientes.
-- Arquitectura de software, diseño de interfaces y accesibilidad.
-- Filosofía, literatura y edición.
-
----
-
-<sub>Proyectos personales · Aprendizaje continuo · Desarrollo autodidacta</sub>
+- Desarrollo web e independencia tecnológica.
+- Arquitectura de software, estética y accesibilidad.
+- Filosofía, literatura y oficio editorial.
