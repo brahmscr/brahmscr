@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://eljardinenruinas.com/">
-    <img src="assets/portada-github.webp" width="100%" alt="Biblioteca y claustro al atardecer" />
+    <img src="assets/banner.webp" width="100%" alt="Escritorio de trabajo: libros, cuaderno y portátil" />
   </a>
 </p>
 
