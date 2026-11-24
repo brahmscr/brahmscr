@@ -7,7 +7,7 @@
 <h1 align="center">Abraham Cordero</h1>
 
 <p align="center">
-  Filosofía, escritura y desarrollo independiente.
+  Filosofía, escritura y desarrollo independiente
 </p>
 
 <p align="center">
