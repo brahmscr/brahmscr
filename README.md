@@ -1,15 +1,39 @@
 <p align="center">
-  <img src="assets/portada-github.webp" width="100%" alt="Biblioteca en un claustro al atardecer, ilustración original para el perfil de Abraham Cordero" />
+  <a href="https://eljardinenruinas.com/">
+    <img src="assets/portada-github.webp" width="100%" alt="Biblioteca y claustro al atardecer" />
+  </a>
 </p>
 
-# Abraham Cordero
+<h1 align="center">Abraham Cordero</h1>
 
-**Filósofo · Escritor · Traductor · Programador aficionado**
+<p align="center">
+  Filosofía, escritura y desarrollo independiente.
+</p>
 
-Me dedico a la filosofía, la escritura y la traducción editorial. Desarrollo proyectos digitales de forma autodidacta, con especial interés por el diseño, la literatura y la creación de espacios de lectura con identidad propia.
+<p align="center">
+  <a href="https://eljardinenruinas.com/">Web personal</a> &nbsp;·&nbsp;
+  <a href="https://eljardinenruinas.com/academia/">Publicaciones</a> &nbsp;·&nbsp;
+  <a href="https://eljardinenruinas.com/correspondencia/">Contacto</a>
+</p>
+
+---
+
+### Perfil
+
+Filósofo, escritor, traductor editorial y programador autodidacta. Desarrollo proyectos digitales en la intersección entre las humanidades, el diseño y el software, con especial atención a la arquitectura, la experiencia de usuario y el cuidado editorial.
 
 ### Proyecto destacado
 
-**[El Jardín en Ruinas](https://eljardinenruinas.com/)** — Archivo personal de literatura y ensayo filosófico. Un proyecto donde confluyen mis intereses intelectuales, artísticos y digitales.
+**[El Jardín en Ruinas](https://eljardinenruinas.com/)**
 
-[Web](https://eljardinenruinas.com/) · [Publicaciones y trayectoria](https://eljardinenruinas.com/academia/) · [Contacto](https://eljardinenruinas.com/correspondencia/)
+Publicación digital independiente dedicada a la literatura y al ensayo filosófico. Integra un archivo de textos, un entorno de edición privado y un sistema propio de correspondencia.
+
+### Áreas de interés
+
+- Desarrollo web y herramientas digitales independientes.
+- Arquitectura de software, diseño de interfaces y accesibilidad.
+- Filosofía contemporánea, literatura y edición.
+
+---
+
+<sub>Proyectos personales · Aprendizaje continuo · Desarrollo autodidacta</sub>
